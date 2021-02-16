@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  scaleway-webhook:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2021-02-16T10:42:27.494987247+01:00"
+    description: Cert-Manager webhook for Scaleway
+    digest: 184b702515202edf82dab4fa9d2bf3be17b0a1ff465a839559126df752dea5e2
+    name: scaleway-webhook
+    urls:
+    - https://yeapai.github.io/cert-manager-webhook-scaleway/scaleway-webhook-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-02-16T10:42:27.494577511+01:00"
